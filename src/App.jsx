@@ -13,7 +13,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
 
   const generateText = () => {
-    const apiKey = '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'; // Replace with your actual API key
+    const apiKey = ''; // Replace with your actual API key
     const apiUrl = 'https://api.openai.com/v1/chat/completions';
   
     // Request data
