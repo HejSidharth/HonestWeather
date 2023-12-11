@@ -1,4 +1,4 @@
-# AI-Powered Weather App
+# HonestWeather
 
 Welcome to the AI-Powered Weather App! This app leverages JavaScript and the power of OpenAI to provide accurate and personalized weather forecasts.
 
