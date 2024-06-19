@@ -49,4 +49,4 @@ Special thanks to OpenAI for providing advanced natural language processing capa
 
 ## Contact
 
-For any inquiries or feedback, reach out to [Your Email Address].
+For any inquiries or feedback, reach out to hejamadisidharth@gmail.com.
